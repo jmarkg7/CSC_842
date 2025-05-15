@@ -1,7 +1,7 @@
 # CSC_842
 Dakota State University - Security Tool Development Course
 
-COURSE SYLLABUS
+# COURSE SYLLABUS
 Course Prefix, Number, and Title
 CSC-842 Security Tool Development
 Credits
@@ -28,15 +28,19 @@ Email Address
 Office Hours
 No office hours scheduled in the summer, but please feel free to email me to setup a time to meet!
 Approved Course Description
+
 Catalog Description
 A software development class that emphasizes custom scripts and software tools to conduct specialized security assessment in an automated manner.  Students will learn to rapidly develop custom tools that are applicable in both attacking and defending software systems and network environments.  The course will also include analyzing current open sources security tools to identify and develop extensions and additional functionality.
 Additional Course Information
 None
 Prerequisites
+
 Course Prerequisite(s)
 None
 Technology Skills
+
 Students should be comfortable with the basic operation of their computer, including Windows 10 or Windows 11 and Microsoft Office.  A DSU–issued tablet is required for on campus students.  Those students who choose to opt out of the tablet program are solely responsible for meeting any technology requirements.
+
 Student Learning Outcomes
 •	Identify cyber security challenges that can be solved with small tools or scripts
 •	Develop small scripts and software packages
@@ -44,10 +48,13 @@ Student Learning Outcomes
 Course Materials
 Required Textbook(s)
 None
+
 Required Supplementary Materials
 Students must have high-speed internet access and administrative permissions on their PC. Windows or Mac operating systems are preferred; you are welcome to use other operating systems as well but be aware we may not have documentation available for all other *nix variants.
+
 Optional Materials
 None
+
 Course Delivery and Instructional Methods
 Students will be self-driven to identify problems in cybersecurity that can be solved with small scripts or tools. Then, students will develop such tools, share them with the class, and receive and provide feedback from and to other students.
 Communication and Feedback
@@ -70,12 +77,19 @@ None
 Performance Standards and Grading Policy
 Students are expected to successfully complete all assigned labs and assignments, and correctly respond to all examinations given.
 
+
 Grading will be on a point-by-point basis. The final letter grade will be based on the following scale: 
-•	90% - 100%. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . “A” 
-•	80 - 89.9%. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . "B" 
-•	70 - 79.9%. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . "C" 
-•	60 - 69.9%. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . "D" 
-•	Less than 60% . . . . . . . . . . . . . . . . . . . . . . . . . . . .  "F"
+
+•	90% - 100%. . . . . . . . . . . .   “A” 
+
+•	80 - 89.9%. . . . . . . . . . . .   "B" 
+
+•	70 - 79.9%. . . . . . . . . . . .   "C" 
+
+•	60 - 69.9%. . . . . . . . . . . .   "D" 
+
+•	Less than 60% . . . . . . . . . .   "F"
+
 
  
 Tentative Course Outline and Schedule
