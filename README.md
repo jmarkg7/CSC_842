@@ -2,7 +2,8 @@
 Dakota State University - Security Tool Development Course
 
 # COURSE SYLLABUS
-Course Prefix, Number, and Title
+
+
 CSC-842 Security Tool Development
 Credits
 3
