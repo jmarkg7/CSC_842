@@ -9,7 +9,7 @@ def get_input(prompt, example=None, options=None):
     return input("Your input: ").strip()
 
 def build_suricata_rule():
-    print("🛡️ Suricata Rule Builder for Beginners 🛡️")
+    print(" Suricata Rule Builder for Beginners ")
     print("This tool will guide you through building a basic Suricata IDS rule.\n")
 
     # Action
@@ -87,7 +87,7 @@ def build_suricata_rule():
         rule += f"; content:\"{content}\""
     rule += f"; sid:{sid}; rev:{rev};)"
 
-    print("\n✅ Your Suricata rule is ready:")
+    print("\n Your Suricata rule is ready:")
     print(rule)
 
     # Optionally write to file
